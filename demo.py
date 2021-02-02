@@ -1,5 +1,3 @@
-import sys
-
 money = 0
 moneymoney = money
 
